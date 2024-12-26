@@ -1,3 +1,4 @@
+
 package py.console.errorcode;
 
 import org.junit.Test;
